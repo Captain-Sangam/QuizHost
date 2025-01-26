@@ -45,7 +45,5 @@ streamlit run app.py
    - Use the undo button if needed
 
 ## Requirements
-- Python 3.7+
+- Python 3.9+
 - Streamlit
-- Pillow
-- Pandas
